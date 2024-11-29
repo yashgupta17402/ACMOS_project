@@ -20,12 +20,18 @@ DIVYANSH SINGHAL   </br>
 NMOS:
 ![nmos_idw](https://github.com/user-attachments/assets/fe40e69c-72b4-498e-8f8e-8745df8722d2)
 ![nmos_gmro](https://github.com/user-attachments/assets/2b8ae0ee-4158-4bcf-b75e-4e3df4f67413)
-![nmos_ft](https://github.com/user-attachments/assets/12a60239-20ba-4f08-ab2f-50c43c2802c5)
+![2](https://github.com/user-attachments/assets/7b962c37-1717-457b-a8ea-d627e8bbbf73)
+
  </br>
  
 PMOS:
 
 ![pmos_d](https://github.com/user-attachments/assets/0522bfae-0df7-4e71-b3bf-34c8d571b5ea)
 ![pmos_gmro](https://github.com/user-attachments/assets/87a8c7b3-b650-4871-96fa-03a94ccd02d4)
-![pmos_ft](https://github.com/user-attachments/assets/9c99ec1e-8c30-4653-8a15-482ec9f173e3)
+![2](https://github.com/user-attachments/assets/174b38de-6a7a-4e7c-9c46-39b4d1c6f8af)
+
+
+## IHP
+![WhatsApp Image 2024-11-30 at 04 32 05](https://github.com/user-attachments/assets/96607a2c-2f74-40df-8fbe-e4341b5b4810)
+
 
