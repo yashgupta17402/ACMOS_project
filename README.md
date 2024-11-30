@@ -76,12 +76,12 @@ xschem [filename].sch
 ```
 
 Now, here are the testbenches for the NMOS and PMOS, you can draw the same for the techplots:
-**NMOS:**
-<img width="772" alt="Screenshot 2024-12-01 at 12 07 26 AM" src="https://github.com/user-attachments/assets/38992e56-679b-4f9c-893f-b5c57640bac4">
+**NMOS:** </br>
+<img width="772" alt="Screenshot 2024-12-01 at 12 07 26 AM" src="https://github.com/user-attachments/assets/38992e56-679b-4f9c-893f-b5c57640bac4"> </br>
 
 
-**PMOS:**
-<img width="671" alt="Screenshot 2024-12-01 at 12 09 05 AM" src="https://github.com/user-attachments/assets/c1bba4e4-01f5-4eaa-8942-9a07581f3feb">
+**PMOS:** </br>
+<img width="671" alt="Screenshot 2024-12-01 at 12 09 05 AM" src="https://github.com/user-attachments/assets/c1bba4e4-01f5-4eaa-8942-9a07581f3feb"> </br>
 
 
 
