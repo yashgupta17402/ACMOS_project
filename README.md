@@ -66,6 +66,9 @@ sudo ./start_shell.sh
 ```
 **Step 4:** To finally open xschem, run the following command in docker terminal 
 
+The terminal looks like this:
+![term](https://github.com/user-attachments/assets/73145ffd-ef35-480c-8b45-bf2dc92665c2)
+
 ```
 xschem &
 ```
@@ -79,6 +82,8 @@ Now, here are the testbenches for the NMOS and PMOS, you can draw the same for t
 **NMOS:** </br>
 <img width="772" alt="Screenshot 2024-12-01 at 12 07 26 AM" src="https://github.com/user-attachments/assets/38992e56-679b-4f9c-893f-b5c57640bac4"> </br>
 
+Netlist:
+[Nmos.sch]()
 
 **PMOS:** </br>
 <img width="671" alt="Screenshot 2024-12-01 at 12 09 05 AM" src="https://github.com/user-attachments/assets/c1bba4e4-01f5-4eaa-8942-9a07581f3feb"> </br>
