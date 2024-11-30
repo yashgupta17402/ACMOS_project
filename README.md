@@ -88,8 +88,10 @@ Netlist:
 [Nmos.sch](https://github.com/yashgupta17402/ACMOS_project/blob/main/nmos.sch)
 
 ### PMOS:  </br>
+![pmos](https://github.com/user-attachments/assets/f4f2e671-d87b-4934-b89c-7c1ad6b59a2e)
 
-
+Netlist:
+[pmos.sch](https://github.com/yashgupta17402/ACMOS_project/blob/main/pmos.sch)
 
 **Plots:**
 
