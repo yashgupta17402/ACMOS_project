@@ -8,7 +8,7 @@ DAKSH SHARMA (IMT2021533)   </br>
 DIVYANSH SINGHAL (IMT2021522)   </br>
 
 
-**Steps to obtain Tech Plots for IHP:**
+## Steps to obtain Tech Plots for IHP:
 
 **Step 1:**
 
