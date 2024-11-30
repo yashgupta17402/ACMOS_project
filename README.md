@@ -1,10 +1,11 @@
-# ACMOS_project
+# ACMOS Project
+## Mentor: Professor Sakshi Arora
 
-TEAM MEMBERS: </br>
-YASH GUPTA   </br>
-CHINMAY SULTANIA  </br>
-DAKSH SHARMA   </br>
-DIVYANSH SINGHAL   </br>
+### TEAM MEMBERS: </br>
+YASH GUPTA (IMT2021514)  </br>
+CHINMAY SULTANIA (IMT2021540)  </br>
+DAKSH SHARMA (IMT2021533)   </br>
+DIVYANSH SINGHAL (IMT2021522)   </br>
 
 **Plots:**
 
