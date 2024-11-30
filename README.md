@@ -75,7 +75,7 @@ xschem &
 xschem [filename].sch
 ```
 
-Now, here are the testbenches for the NMOS and PMOS, you can draw the same for the techplots:
+Now, here are the testbenches for the NMOS and PMOS, you can draw the same for the techplots: </br>
 **NMOS:** </br>
 <img width="772" alt="Screenshot 2024-12-01 at 12 07 26 AM" src="https://github.com/user-attachments/assets/38992e56-679b-4f9c-893f-b5c57640bac4"> </br>
 
