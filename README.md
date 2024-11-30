@@ -64,6 +64,16 @@ sudo ./start_vnc.sh
 ```
 sudo ./start_shell.sh
 ```
+**Step 4:** To finally open xschem, runt he following command in docker terminal 
+
+```
+xschem &
+```
+ **OR**
+ 
+```
+xschem [filename].sch
+```
 
 **Plots:**
 
