@@ -121,6 +121,7 @@ PMOS:
 ## IHP
 ![WhatsApp Image 2024-11-30 at 04 32 05](https://github.com/user-attachments/assets/96607a2c-2f74-40df-8fbe-e4341b5b4810)
 
+![bash](https://github.com/user-attachments/assets/5431941d-5f3b-48d6-b9eb-5cd10eeb6339)
 
 ## Installed PDKs
 
