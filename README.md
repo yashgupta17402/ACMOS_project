@@ -7,6 +7,64 @@ CHINMAY SULTANIA (IMT2021540)  </br>
 DAKSH SHARMA (IMT2021533)   </br>
 DIVYANSH SINGHAL (IMT2021522)   </br>
 
+
+**Steps to obtain Tech Plots for IHP:**
+
+**Step 1:**
+
+Install the Docker using the following commands:
+```
+sudo apt-get update
+sudo apt-get install ca-certificates curl
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+# Add the repository to Apt sources:
+echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+$(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+sudo docker run hello-world
+```
+
+
+if the commands gives you an error use the commands below:
+```
+sudo apt update
+sudo apt upgrade -y
+sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+docker --version
+sudo systemctl status docker
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo docker run hello-world
+```
+
+**Step 2:**
+Now clone the following Github repo using the given command:
+```
+git clone --depth=1 https://github.com/iic-jku/iic-osic-tools.git
+```
+**Step 3:**
+Go to the iic-osic-tools directory using the following command:
+```
+cd iic-osic-tools/
+```
+*Option 1:* If you want to run on your browser, run the following command:
+
+```
+sudo ./start_vnc.sh
+```
+
+*Option 2:* If you want to run on your system locally, run the following command:
+
+```
+sudo ./start_shell.sh
+```
+
 **Plots:**
 
 ![IMG-20241129-WA0008](https://github.com/user-attachments/assets/d9fa7c9e-80bf-49f9-bece-832502ea5b9f)
