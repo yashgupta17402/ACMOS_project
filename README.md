@@ -87,7 +87,6 @@ Netlist:
 [Nmos.sch](https://github.com/yashgupta17402/ACMOS_project/blob/main/nmos.sch)
 
 **PMOS:** </br>
-<img width="671" alt="Screenshot 2024-12-01 at 12 09 05 AM" src="https://github.com/user-attachments/assets/c1bba4e4-01f5-4eaa-8942-9a07581f3feb"> </br>
 
 
 
@@ -119,4 +118,22 @@ PMOS:
 ## IHP
 ![WhatsApp Image 2024-11-30 at 04 32 05](https://github.com/user-attachments/assets/96607a2c-2f74-40df-8fbe-e4341b5b4810)
 
+
+## Installed PDKs
+
+As of the `2022.12` tag, the following open-source process-development kits (PDKs) are pre-installed, and the table shows how to switch by setting environment variables (you can do this per project by putting this into `.designinit` as explained below):
+
+| SkyWater Technologies `sky130A` |
+|---|
+| `export PDK=sky130A` |
+| `export PDKPATH=$PDK_ROOT/$PDK` |
+| `export STD_CELL_LIBRARY=sky130_fd_sc_hd` |
+
+| IHP Microelectronics `sg13g2` |
+|---|
+| `export PDK=sg13g2` |
+| `export PDKPATH=$PDK_ROOT/$PDK` |
+| `export STD_CELL_LIBRARY=sg13g2_stdcell` |
+
+More options for selecting digital standard cell libraries are available; please check the PDK directories.
 
